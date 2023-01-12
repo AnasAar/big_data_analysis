@@ -4,8 +4,7 @@ from nltk.tokenize import WordPunctTokenizer
 from nltk.stem import WordNetLemmatizer
 
 
-#openai.api_key = "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"
-openai.api_key = "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"
+#openai.api_key = "Free_key_generation_in_open_AI"
 
 model_engine = "text-davinci-002"
 all_files = glob.glob(r"C:/Users/hp/PycharmProjects/bigdataProject/texts/*")
